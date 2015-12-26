@@ -1,10 +1,12 @@
-# boxsound
+# boxplorer -audio (boxsound)
 
 works only for windows, tested on Seven.<br />
 an OpenGl card is required, the .exe needs fmod.lib and sdl.dll<br />
 Open boxplorer.exe, choose an audio file, then choose a .cfg file.<br />
 <br />
 uniform float fft_out can be used to read FFT from audio file (see fragment.glsl file).<br />
+<br />
+The original repository of Boxplorer is http://sourceforge.net/projects/boxplorer/ (thanks Rrrola)<br />
 <br />
 URL: http://boxplorer2.googlecode.com/svn/trunk<br />
 Repository Root: http://boxplorer2.googlecode.com/svn<br />
